@@ -61,7 +61,7 @@ def banner() :
 
       if num == -1 :
         sleep (1.5)
-        exit ()
+        exit()
         
       else :
         sleep (1)
