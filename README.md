@@ -1,3 +1,3 @@
-# Garlic-To-Onion
+# Garlic To Onion
 
-Mini Data Collection Tool - Mobile Versions
+Mini Data Collection Tool - Windows Versions
