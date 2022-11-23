@@ -13,3 +13,9 @@ Windows Versions .
 [04] Port Sccaner
 [05] Whois
 ```
+
+1. Convert URL to IP
+2. Checking subdomains and showing IP and country
+3. Display full IP information
+4. Scan the open ports of the site
+5. Display complete site information
