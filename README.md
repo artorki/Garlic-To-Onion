@@ -6,7 +6,7 @@ Windows Versions
 
 
 ## Menu
-```
+```python
 sleep (0.05)
 print (' [01] URL To IP ')
 sleep (0.05)
@@ -26,4 +26,6 @@ print (' [05] Whois ')
 
 
 ## Installation
+
+https://github.com/artorki/GarlicToOnion-Windows.git
 
