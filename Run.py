@@ -1,4 +1,4 @@
-@artorki
+# artorki
 
 
 from colorama import Fore as color
@@ -29,10 +29,12 @@ while True :
     print (color.LIGHTYELLOW_EX , "[05] Whois")
     sleep (0.05)
     print (color.LIGHTYELLOW_EX,"[00] Exit")
+    
+    
     sleep (0.05)
     print (color.WHITE)
     h_input = input (" @G.O>>> ")
-
+    
 
     if h_input == "1" or h_input == "01" :
         url_ip ()
@@ -56,4 +58,5 @@ while True :
         print (color.LIGHTRED_EX , "\n ERROR")
         exit ()
 
+       
     input ()
