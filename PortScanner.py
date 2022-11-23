@@ -61,7 +61,8 @@ def port_scanner() :
             print (lg , " [+] Port {} - {} is Open".format(i,service))
 
     except :
-        print (lr,"\n ERROR")
+        print (lr , "\n ERROR")
         exit()
 
-    print(ly,"\n Finish")
+        
+    print (ly , "\n Finish")
