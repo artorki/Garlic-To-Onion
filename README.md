@@ -18,6 +18,7 @@ sleep (0.05)
 print ("[04] Port Sccaner")
 sleep (0.05)
 print ("[05] Whois")
+
 ```
 1. Convert URL to IP
 2. Checking subdomains and showing IP and country
