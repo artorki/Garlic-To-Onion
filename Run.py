@@ -1,7 +1,6 @@
 # artorki
 
 
-from colorama import Fore as color
 from time import sleep
 
 from Banner import banner
@@ -12,51 +11,56 @@ from PortScanner import port_scanner
 from Whois import whois
 
 
+white , cyan , green , yellow , red = "\033[0;37m" , "\033[96m" , "\033[92m" , "\033[93m" , "\033[91m"
+
+
 while True :
 
-    banner ()
+    banner()
 
-    print (color.LIGHTYELLOW_EX , "–•[HOME]•–———————————————————————————————————————————————————————————")
+
+    print (yellow , "–•[HOME]•–———————————————————————————————————————————————————————————")
+    
     sleep (0.05)
-    print (color.LIGHTYELLOW_EX , "\n [01] URL To IP")
+    print ("\n [01] URL To IP")
     sleep (0.05)
-    print (color.LIGHTYELLOW_EX , "[02] Cloud Flare")
+    print ("[02] Cloud Flare")
     sleep (0.05)
-    print (color.LIGHTYELLOW_EX , "[03] IP Location")
+    print ("[03] IP Location")
     sleep (0.05)
-    print (color.LIGHTYELLOW_EX , "[04] Port Sccaner")
+    print ("[04] Port Sccaner")
     sleep (0.05)
-    print (color.LIGHTYELLOW_EX , "[05] Whois")
+    print ("[05] Whois")
     sleep (0.05)
-    print (color.LIGHTYELLOW_EX,"[00] Exit")
+    print ("[00] Exit")
     
     
     sleep (0.05)
-    print (color.WHITE)
+    print (white)
     h_input = input (" @G.O>>> ")
     
 
     if h_input == "1" or h_input == "01" :
-        url_ip ()
+        url_ip()
 
     elif h_input == "2" or h_input == "02" :
-        cloud_flare ()
+        cloud_flare()
 
     elif h_input == "3" or h_input == "03" :
-        ip_location ()
+        ip_location()
 
     elif h_input == "4" or h_input == "04" :
-        port_scanner ()
+        port_scanner()
 
     elif h_input == "5" or h_input == "05" :
-        whois ()
+        whois()
 
     elif h_input == "0" :
-        exit ()
+        exit()
 
-    else:
-        print (color.LIGHTRED_EX , "\n ERROR")
-        exit ()
+    else :
+        print (red , "\n [!] ERROR")
+        exit()
 
        
-    input ()
+    input()
