@@ -11,7 +11,7 @@ from PortScanner import port_scanner
 from Whois import whois
 
 
-white , cyan , green , yellow , red = "\033[0;37m" , "\033[96m" , "\033[92m" , "\033[93m" , "\033[91m"
+white , green , yellow , red = "\033[0;37m" , "\033[92m" , "\033[93m" , "\033[91m"
 
 
 while True :
