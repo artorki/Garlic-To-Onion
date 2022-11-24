@@ -3,6 +3,7 @@
 
 from time import sleep
 
+from Libs import libs
 from Banner import banner
 from URLToIP import url_ip
 from CloudFlare import cloud_flare
@@ -12,6 +13,9 @@ from Whois import whois
 
 
 white , green , yellow , red = "\033[0;37m" , "\033[92m" , "\033[93m" , "\033[91m"
+
+
+libs()
 
 
 while True :
