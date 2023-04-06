@@ -29,5 +29,5 @@ print ("[05] Whois")
 
 ## Installation
 
-https://github.com/artorki/GarlicToOnion-Windows.git
+https://github.com/artorki/GarlicToOnion.git
 
