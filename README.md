@@ -1,4 +1,4 @@
-# Garlic To Onion
+# Garlic To Onion (outdated)
 
 Mini Data Collection Tool - Written in Python
 
