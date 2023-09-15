@@ -25,9 +25,3 @@ print ("[05] Whois")
 3. Display full IP information
 4. Scan the open ports of the site
 5. Display complete site information
-
-
-## Installation
-
-https://github.com/artorki/GarlicToOnion.git
-
