@@ -2,7 +2,7 @@
 Mini data collection tool - For Windows
 
 
-#### Menu
+#### ○ Menu
 ```python
 print ("–•[HOME]•————————————————————————————————————————")
 sleep (0.05)
