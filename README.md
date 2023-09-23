@@ -1,9 +1,8 @@
-## Garlic To Onion (outdated)
-Mini Data Collection Tool - Written in Python
-Windows Versions
+## ● Garlic to Onion (outdated)
+Mini data collection tool - For Windows
 
 
-## Menu
+#### Menu
 ```python
 print ("–•[HOME]•————————————————————————————————————————")
 sleep (0.05)
