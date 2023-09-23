@@ -1,6 +1,7 @@
 ## ● Garlic to Onion (outdated)
 Mini data collection tool - For Windows
 
+(New version: "Hummingbird")
 
 #### ○ URL to IP
 Convert URL to IP.
