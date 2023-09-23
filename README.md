@@ -1,7 +1,5 @@
-# Garlic To Onion (outdated)
-
+## Garlic To Onion (outdated)
 Mini Data Collection Tool - Written in Python
-
 Windows Versions
 
 
